@@ -144,9 +144,15 @@ Feel free to fork this repo and submit pull requests!
 
 ## 📜 License
 
-This project is open-source
+This project is open-source 
 
 ---
 
+## 👨‍💻 Author
+
+**Ravi Bhamniya**
+
+---
 
 ⭐ If you like this project, don’t forget to star the repo!
+
